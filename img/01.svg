@@ -1,0 +1,15 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="256" width="256" y="0" x="0"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_2" height="256" width="128" y="0" x="0" stroke-width="1" stroke="#000" fill="#000000"/>
+  <text font-style="normal" font-weight="normal" stroke="#000" transform="matrix(10.544185883898114,0,0,9.544368473224662,-663.1656120117701,-872.8168840658975) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="24" id="svg_4" y="113" x="63" stroke-opacity="null" stroke-width="0" fill="#ffffff">0</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_5" y="103.414504" x="213.434443" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#ffffff">1</text>
+  <text stroke="#000" transform="matrix(8.008260397710753,0,0,6.721668987661144,-1174.0874882114076,-467.35466709348987) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="24" id="svg_6" y="95.577132" x="164.034996" stroke-opacity="null" stroke-width="0" fill="#000000">1</text>
+  <text stroke="#000" transform="matrix(10.321448611412402,0,0,9.5820565555858,-1547.8413433413264,-48.5332678788719) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="24" id="svg_7" y="26.458299" x="162.185972" stroke-opacity="null" stroke-width="0" fill="#000000">0</text>
+  <text stroke="#000" transform="rotate(-0.04082357510924339 63.995059967033576,122.40737152099709) matrix(4.923134975723088,0,0,4.460804696698233,-238.58544428875476,-415.50200847280183) " xml:space="preserve" text-anchor="start" font-family="'Times New Roman', Times, serif" font-size="24" id="svg_8" y="128.685274" x="55.466321" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#ffffff">1</text>
+ </g>
+</svg>
