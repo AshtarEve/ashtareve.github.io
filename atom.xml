@@ -24,31 +24,8 @@
     <updated>2021-12-18T08:37:26.000Z</updated>
     
     
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://hexo.io/zh-cn/docs/&quot;&gt;官方文档&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://shen-yu.gitee.io/2019/ayer/&quot;&gt;Ayer 文档&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;命令&quot;&gt;&lt;a href=&quot;#命令&quot; class=&quot;headerlink&quot; title=&quot;命令&quot;&gt;&lt;/a&gt;命令&lt;/h2&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&quot;center&quot;&gt;command&lt;/th&gt;
-&lt;th align=&quot;center&quot;&gt;description&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td align=&quot;center&quot;&gt;hexo init &amp;lt;folder&amp;gt;&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;初始化&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;center&quot;&gt;hexo clean &amp;amp;&amp;amp; hexo deploy&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;一键部署，需要安装 &lt;a href=&quot;https://github.com/hexojs/hexo-deployer-git&quot;&gt;hexo-deployer-git&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;center&quot;&gt;hexo new [layout] &amp;lt;title&amp;gt;&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;创建新文章，默认模板使用配置中的 default_layout 参数。&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;center&quot;&gt;hexo new page &amp;lt;title&amp;gt;&lt;/td&gt;
-&lt;td align=&quot;center&quot;&gt;创建新页面，可以使用路由直接指向该页面。例如新建 About 页面。(hexo new page “About”)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://hexo.io/zh-cn/docs/&quot;&gt;官方文档&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://shen-yu.gitee.io/2019/ayer/&quot;&gt;Ayer 文档&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://twikoo.js.org/&quot;&gt;Twikoo 文档&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;本站使用 Hexo + Ayer + Twikoo 搭建，操作方法推荐参考上述官方文档。&lt;strong&gt;查阅任何搭建教程都不比直接官方文档来的快。&lt;/strong&gt;&lt;/p&gt;</summary>
     
     
     
