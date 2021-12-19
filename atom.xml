@@ -24,12 +24,8 @@
     <updated>2021-12-19T13:30:26.000Z</updated>
     
     
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://hexo.io/zh-cn/docs/&quot;&gt;官方文档&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://shen-yu.gitee.io/2019/ayer/&quot;&gt;Ayer 文档&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://twikoo.js.org/&quot;&gt;Twikoo 文档&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;本站使用 Hexo + Ayer + Twikoo 搭建，操作方法推荐参考上述官方文档。&lt;strong&gt;查阅任何搭建教程都不比直接官方文档来的快。&lt;/strong&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://hexo.io/zh-cn/docs/&quot;&gt;Hexo 文档&lt;/a&gt;， &lt;a href=&quot;https://shen-yu.gitee.io/2019/ayer/&quot;&gt;Ayer 文档&lt;/a&gt;， &lt;a href=&quot;https://twikoo.js.org/&quot;&gt;Twikoo 文档&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;本站使用 Hexo + Ayer + Twikoo 搭建，操作方法参考上述官方文档。&lt;/p&gt;</summary>
     
     
     
